@@ -1,2 +1,2 @@
 ## HireSmart AI 
-ai based recruitment
+Online Recruitment and Resume Screening System Using AI
